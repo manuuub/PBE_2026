@@ -8,7 +8,5 @@ if ($idade >= 18){
     echo"Entrada liberada apenas com acompanhante";
 } else {
     echo"Entrada negada!Menores de 14 e 17 anos só com acompanhante";
-} else {
-    echo" Menores de 14 anos não podem entrar mesmo acompanhados! ";
-}
+} 
 ?>
