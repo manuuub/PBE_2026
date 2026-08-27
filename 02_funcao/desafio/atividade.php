@@ -9,4 +9,7 @@ echo "Subtotal: R$ " . $meuPedido['subtotal'] . "<br>";
 echo "Desconto: R$ " . $meuPedido['desconto'] . "<br>";
 echo "Imposto: R$ " . $meuPedido['imposto'] . "<br>";
 echo "Total Final: R$ " . $meuPedido['total'] . "<br>";
+
+$totalComFrete = calculoFrete ($resultado ['totalfinal']);
+echo "Total com Frete" . $totalcomfrete;
 ?>
