@@ -10,5 +10,5 @@ foreach ($arr as $posicao => $valor ){
     echo"posição <strong>".$posicao."</strong>  texto <strong>".$valor. "</strong>";
     echo"</br>";
 }
-
+if
 ?>
