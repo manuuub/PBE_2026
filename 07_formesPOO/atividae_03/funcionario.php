@@ -93,3 +93,4 @@ class Funcionario {
                - $this->calcularValeTransporte();
     }
 }
+?>
